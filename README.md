@@ -1,0 +1,1 @@
+# Whatsup-status-saver-policy
